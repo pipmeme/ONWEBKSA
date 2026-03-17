@@ -1,0 +1,36 @@
+{
+  "title": "Your Article Title",
+  "slug": "your-article-title",
+  "type": "insight",
+  "status": "draft",
+  "category": "Growth",
+  "excerpt": "One short summary sentence.",
+  "autoTranslate": true,
+  "content": [
+    {
+      "heading": "Section Heading",
+      "pullQuote": "Optional highlighted quote.",
+      "paragraphs": [
+        "First paragraph.",
+        "Second paragraph."
+      ]
+    }
+  ],
+  "metadata": {
+    "readTime": "5 min read"
+  },
+  "translations": {
+    "ar": {
+      "title": "",
+      "excerpt": "",
+      "content": [],
+      "metadata": {}
+    },
+    "ru": {
+      "title": "",
+      "excerpt": "",
+      "content": [],
+      "metadata": {}
+    }
+  }
+}
